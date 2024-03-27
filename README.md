@@ -12,3 +12,7 @@ The secondary motivation is to create an awesome piece of open-source neural net
 that can easily be used by any novice w/ basic understanding of neural networks.  The software is
 to offer an easily customizable network with n hidden layers, back prop, ..., you name it! :)
 
+
+## Goals
+
+Port theprimeagen's neural-js into pure Common lisp code to learn AI, ML, and lisp.
